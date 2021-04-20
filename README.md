@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Robertrodrigues000
 - 👀 I’m interested in front-end
-- 🌱 I’m currently learning html, css , JS and React Native com NextJS
+- 🌱 I’m currently learning html, css , JS and ReactJS
 - 📫 How to reach me robertrodrigues000@hotmail.com
 
 <!---
